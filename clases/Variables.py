@@ -24,3 +24,8 @@ print(numero1 // numero2)#Div. entera
 print(numero1 * numero2)
 print(numero1 ** numero2)#Exponente
 print(numero1 ** 0.5)#Raiz cuadrada
+
+
+
+numeros = [3, 4, 5]
+nombres = ["Fulano","Zutano"]
